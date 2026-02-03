@@ -1,0 +1,5 @@
+# Ignore personal data
+2026/
+.openclaw/
+*.py
+*.log
