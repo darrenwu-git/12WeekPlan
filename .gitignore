@@ -1,5 +1,6 @@
 # Ignore personal data
 2026/
+inbox.md
 .openclaw/
 *.py
 *.log
